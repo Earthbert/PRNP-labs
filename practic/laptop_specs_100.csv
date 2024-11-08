@@ -1,0 +1,101 @@
+Model,Pret,Diagonala (inch),Tehnologie Display,Producator Procesor,Model Procesor,Capacitate RAM,Capacitate HDD,Unitate Optica,Camera Web,Greutate
+Samsung MacBook,3298 RON,14,IPS,AMD,Intel Core i7-10750H,8 GB,2TB,Da,Da,1.8 Kg
+MSI ThinkPad,2876 RON,15.6,IPS,AMD,Intel Core i7-10750H,4 GB,1TB,Nu,Da,1.8 Kg
+MSI VivoBook,3028 RON,15.6,OLED,Intel,Intel Core i5-10210U,16 GB,256GB,Nu,Nu,1.8 Kg
+Samsung Swift,3694 RON,13.3,LCD,Intel,Intel Core i7-8565U,32 GB,256GB,Da,Nu,2.5 Kg
+Dell VivoBook,3495 RON,14,OLED,AMD,Intel Core i7-10750H,4 GB,256GB,Da,Nu,1.5 Kg
+MSI Pavilion,2490 RON,13.3,LED,AMD,Intel Core i3-6006U,16 GB,512GB,Da,Nu,2.0 Kg
+Toshiba Inspiron,2149 RON,13.3,OLED,Intel,Intel Core i9-10900K,4 GB,256GB,Da,Da,2.0 Kg
+Toshiba Inspiron,4982 RON,15.6,IPS,AMD,Intel Core i9-10900K,4 GB,512GB,Nu,Da,1.5 Kg
+MSI Inspiron,3089 RON,15.6,LCD,Intel,Intel Core i5-7200U,16 GB,1TB,Nu,Da,2.3 Kg
+Toshiba ThinkPad,2247 RON,14,LCD,AMD,AMD Ryzen 7 3700U,16 GB,512GB,Da,Da,1.8 Kg
+HP VivoBook,4264 RON,13.3,LED,Intel,Intel Core i5-10210U,4 GB,256GB,Nu,Nu,1.8 Kg
+HP VivoBook,1609 RON,17.3,OLED,Intel,Intel Core i3-6006U,4 GB,2TB,Nu,Da,2.5 Kg
+HP MacBook,2458 RON,15.6,IPS,AMD,Intel Core i5-7200U,32 GB,2TB,Da,Da,1.5 Kg
+Dell Inspiron,4732 RON,13.3,LED,Intel,AMD Ryzen 5 3500U,16 GB,1TB,Da,Nu,2.5 Kg
+Dell Swift,3392 RON,15.6,LCD,Intel,AMD Ryzen 7 3700U,8 GB,1TB,Nu,Nu,2.5 Kg
+Apple Swift,4251 RON,17.3,LCD,Intel,Intel Core i7-10750H,16 GB,2TB,Nu,Da,2.5 Kg
+Toshiba Pavilion,4652 RON,15.6,IPS,AMD,Intel Core i3-6006U,8 GB,1TB,Nu,Nu,2.0 Kg
+Samsung VivoBook,3765 RON,15.6,OLED,Intel,AMD Ryzen 5 3500U,32 GB,256GB,Nu,Nu,2.3 Kg
+Toshiba Pavilion,2510 RON,15.6,OLED,Intel,Intel Core i7-10750H,16 GB,2TB,Nu,Nu,2.5 Kg
+Sony Swift,2310 RON,13.3,LED,Intel,Intel Core i9-10900K,8 GB,2TB,Nu,Nu,1.8 Kg
+MSI VivoBook,3849 RON,17.3,LCD,AMD,Intel Core i3-6006U,16 GB,1TB,Da,Da,1.5 Kg
+Samsung Swift,2859 RON,15.6,LED,Intel,Intel Core i9-10900K,4 GB,2TB,Da,Nu,2.0 Kg
+Dell Pavilion,1725 RON,17.3,LED,AMD,Intel Core i5-7200U,16 GB,1TB,Nu,Nu,2.5 Kg
+Acer Pavilion,2298 RON,17.3,OLED,AMD,Intel Core i7-8565U,32 GB,2TB,Da,Da,1.8 Kg
+MSI MacBook,1947 RON,15.6,IPS,AMD,AMD Ryzen 5 3500U,16 GB,256GB,Nu,Nu,1.8 Kg
+Toshiba Pavilion,3615 RON,15.6,OLED,Intel,Intel Core i7-10750H,32 GB,1TB,Da,Da,2.3 Kg
+Acer Pavilion,2511 RON,15.6,LCD,AMD,Intel Core i3-6006U,4 GB,2TB,Nu,Da,2.3 Kg
+Acer VivoBook,2822 RON,14,IPS,AMD,Intel Core i5-7200U,16 GB,2TB,Da,Da,1.5 Kg
+Dell Swift,4781 RON,13.3,OLED,AMD,Intel Core i5-7200U,32 GB,256GB,Nu,Da,2.5 Kg
+Samsung MacBook,2505 RON,13.3,LED,AMD,AMD Ryzen 5 3500U,16 GB,256GB,Nu,Da,2.0 Kg
+Acer Pavilion,4030 RON,14,OLED,AMD,AMD Ryzen 7 3700U,4 GB,2TB,Nu,Da,2.0 Kg
+HP Pavilion,3524 RON,17.3,LCD,Intel,Intel Core i7-8565U,8 GB,256GB,Nu,Da,1.8 Kg
+Apple MacBook,4773 RON,13.3,OLED,Intel,Intel Core i7-8565U,16 GB,512GB,Da,Da,1.5 Kg
+Asus Inspiron,2108 RON,14,IPS,AMD,Intel Core i7-8565U,4 GB,2TB,Da,Nu,2.0 Kg
+Samsung VivoBook,4382 RON,14,OLED,AMD,Intel Core i9-10900K,16 GB,2TB,Nu,Nu,1.5 Kg
+MSI ThinkPad,4320 RON,15.6,IPS,AMD,Intel Core i5-10210U,32 GB,1TB,Nu,Nu,1.8 Kg
+HP ThinkPad,4417 RON,17.3,IPS,Intel,Intel Core i5-10210U,16 GB,1TB,Da,Nu,2.3 Kg
+Lenovo Swift,3917 RON,13.3,IPS,Intel,Intel Core i5-10210U,16 GB,256GB,Da,Da,2.0 Kg
+Asus Inspiron,3148 RON,13.3,LCD,Intel,Intel Core i7-10750H,32 GB,2TB,Da,Nu,2.5 Kg
+Samsung Inspiron,1862 RON,14,OLED,AMD,Intel Core i7-8565U,4 GB,2TB,Da,Da,2.5 Kg
+Toshiba Pavilion,2520 RON,13.3,OLED,AMD,Intel Core i9-10900K,32 GB,512GB,Da,Da,2.3 Kg
+Lenovo VivoBook,2638 RON,15.6,LCD,Intel,Intel Core i7-10750H,32 GB,2TB,Da,Nu,2.3 Kg
+Acer Inspiron,2775 RON,13.3,LCD,AMD,AMD Ryzen 7 3700U,32 GB,512GB,Nu,Nu,1.8 Kg
+Apple ThinkPad,2767 RON,17.3,IPS,Intel,AMD Ryzen 7 3700U,4 GB,2TB,Da,Da,1.8 Kg
+HP Swift,4818 RON,15.6,LED,AMD,Intel Core i7-10750H,32 GB,2TB,Nu,Nu,1.5 Kg
+Samsung Inspiron,1628 RON,14,IPS,AMD,Intel Core i5-7200U,8 GB,1TB,Da,Da,1.5 Kg
+MSI Pavilion,3838 RON,15.6,IPS,AMD,Intel Core i5-10210U,32 GB,2TB,Da,Da,2.0 Kg
+Lenovo Swift,4645 RON,15.6,IPS,Intel,AMD Ryzen 7 3700U,8 GB,512GB,Nu,Nu,1.8 Kg
+Samsung VivoBook,2710 RON,14,IPS,AMD,AMD Ryzen 5 3500U,32 GB,512GB,Da,Da,2.3 Kg
+Sony ThinkPad,2982 RON,17.3,IPS,Intel,Intel Core i5-10210U,8 GB,1TB,Nu,Da,2.0 Kg
+HP Inspiron,2522 RON,14,IPS,AMD,AMD Ryzen 5 3500U,8 GB,2TB,Nu,Da,1.5 Kg
+Toshiba VivoBook,1861 RON,15.6,IPS,Intel,Intel Core i5-10210U,16 GB,2TB,Da,Nu,2.5 Kg
+Acer ThinkPad,2865 RON,14,LCD,AMD,Intel Core i7-8565U,4 GB,256GB,Da,Da,1.5 Kg
+HP Pavilion,4782 RON,14,IPS,AMD,Intel Core i7-8565U,16 GB,512GB,Nu,Nu,1.5 Kg
+MSI Swift,4940 RON,13.3,IPS,AMD,AMD Ryzen 7 3700U,4 GB,512GB,Da,Nu,2.5 Kg
+Apple Pavilion,3458 RON,13.3,IPS,AMD,Intel Core i7-10750H,8 GB,1TB,Nu,Da,2.3 Kg
+HP Pavilion,1643 RON,15.6,IPS,AMD,Intel Core i3-6006U,16 GB,512GB,Nu,Nu,2.5 Kg
+Apple ThinkPad,4980 RON,15.6,IPS,Intel,Intel Core i5-7200U,8 GB,2TB,Da,Da,2.3 Kg
+Asus Pavilion,2474 RON,15.6,IPS,AMD,Intel Core i7-8565U,16 GB,1TB,Nu,Da,1.5 Kg
+Apple Swift,4669 RON,17.3,LED,AMD,AMD Ryzen 5 3500U,8 GB,512GB,Nu,Da,1.5 Kg
+MSI VivoBook,4603 RON,13.3,IPS,AMD,Intel Core i7-8565U,8 GB,1TB,Da,Nu,2.3 Kg
+Toshiba ThinkPad,3883 RON,15.6,LCD,Intel,Intel Core i7-8565U,16 GB,2TB,Nu,Da,1.8 Kg
+MSI VivoBook,2227 RON,14,OLED,AMD,AMD Ryzen 5 3500U,16 GB,1TB,Da,Da,2.3 Kg
+MSI Swift,4303 RON,14,LED,AMD,Intel Core i9-10900K,4 GB,2TB,Da,Da,2.5 Kg
+Sony Swift,2483 RON,15.6,OLED,Intel,AMD Ryzen 5 3500U,16 GB,1TB,Da,Da,1.5 Kg
+Dell ThinkPad,2509 RON,17.3,LED,Intel,Intel Core i9-10900K,16 GB,256GB,Nu,Nu,2.0 Kg
+MSI Pavilion,3174 RON,17.3,LCD,AMD,Intel Core i3-6006U,16 GB,512GB,Nu,Nu,2.5 Kg
+Sony Swift,3104 RON,15.6,IPS,AMD,Intel Core i5-7200U,4 GB,2TB,Nu,Nu,2.3 Kg
+Samsung ThinkPad,3540 RON,13.3,OLED,Intel,Intel Core i5-10210U,32 GB,2TB,Da,Da,2.3 Kg
+HP ThinkPad,4122 RON,15.6,LED,AMD,Intel Core i3-6006U,16 GB,2TB,Nu,Da,2.3 Kg
+Dell VivoBook,4005 RON,13.3,IPS,Intel,Intel Core i9-10900K,8 GB,1TB,Da,Da,2.3 Kg
+Asus VivoBook,2215 RON,17.3,LCD,AMD,Intel Core i7-8565U,8 GB,1TB,Da,Da,1.5 Kg
+HP Swift,3482 RON,17.3,OLED,Intel,Intel Core i5-7200U,4 GB,2TB,Da,Da,2.0 Kg
+Samsung ThinkPad,3993 RON,17.3,LCD,AMD,Intel Core i9-10900K,8 GB,256GB,Da,Nu,2.5 Kg
+Asus Pavilion,1980 RON,13.3,LCD,Intel,Intel Core i5-10210U,16 GB,1TB,Da,Nu,1.5 Kg
+Apple Pavilion,1899 RON,15.6,OLED,Intel,Intel Core i5-7200U,16 GB,256GB,Nu,Nu,2.5 Kg
+HP ThinkPad,2396 RON,15.6,IPS,AMD,Intel Core i7-10750H,4 GB,256GB,Nu,Nu,1.5 Kg
+Samsung VivoBook,1712 RON,15.6,OLED,Intel,Intel Core i5-7200U,8 GB,512GB,Nu,Da,1.5 Kg
+Samsung Swift,3578 RON,15.6,LCD,Intel,AMD Ryzen 7 3700U,16 GB,1TB,Nu,Da,2.0 Kg
+Acer Pavilion,2896 RON,14,OLED,AMD,AMD Ryzen 5 3500U,16 GB,512GB,Nu,Nu,2.0 Kg
+MSI Inspiron,4190 RON,17.3,LED,Intel,Intel Core i3-6006U,16 GB,1TB,Nu,Nu,2.5 Kg
+Dell Inspiron,3776 RON,14,IPS,AMD,Intel Core i7-10750H,8 GB,512GB,Da,Nu,1.5 Kg
+Lenovo Swift,4957 RON,15.6,OLED,AMD,Intel Core i9-10900K,16 GB,256GB,Nu,Da,2.0 Kg
+HP VivoBook,4042 RON,13.3,IPS,Intel,Intel Core i5-7200U,16 GB,256GB,Nu,Nu,2.3 Kg
+Toshiba ThinkPad,4842 RON,17.3,IPS,AMD,Intel Core i9-10900K,16 GB,1TB,Da,Da,1.8 Kg
+Apple Pavilion,3058 RON,13.3,IPS,AMD,Intel Core i7-10750H,16 GB,2TB,Da,Nu,1.5 Kg
+Asus MacBook,2251 RON,14,OLED,Intel,AMD Ryzen 5 3500U,32 GB,512GB,Nu,Nu,1.8 Kg
+Lenovo MacBook,4484 RON,14,OLED,AMD,Intel Core i7-10750H,16 GB,2TB,Da,Da,1.5 Kg
+Sony VivoBook,4813 RON,15.6,LED,Intel,AMD Ryzen 5 3500U,4 GB,2TB,Nu,Nu,2.5 Kg
+MSI Pavilion,2069 RON,15.6,LCD,Intel,Intel Core i9-10900K,4 GB,1TB,Da,Nu,1.8 Kg
+Toshiba ThinkPad,2028 RON,15.6,LED,Intel,Intel Core i5-10210U,16 GB,1TB,Nu,Nu,2.3 Kg
+Lenovo MacBook,3188 RON,17.3,LED,AMD,Intel Core i9-10900K,8 GB,512GB,Da,Da,2.3 Kg
+Lenovo ThinkPad,2673 RON,15.6,LED,Intel,Intel Core i3-6006U,8 GB,2TB,Da,Nu,1.8 Kg
+HP Pavilion,3307 RON,15.6,IPS,Intel,Intel Core i5-7200U,8 GB,1TB,Da,Nu,2.3 Kg
+HP Inspiron,4404 RON,17.3,IPS,AMD,AMD Ryzen 5 3500U,32 GB,256GB,Da,Nu,1.8 Kg
+Samsung MacBook,2164 RON,13.3,OLED,AMD,AMD Ryzen 7 3700U,4 GB,2TB,Nu,Nu,2.5 Kg
+Acer Swift,3622 RON,13.3,LED,AMD,Intel Core i7-8565U,16 GB,256GB,Da,Da,1.5 Kg
+Sony MacBook,4328 RON,14,OLED,AMD,Intel Core i5-10210U,8 GB,1TB,Da,Nu,1.8 Kg
+Samsung ThinkPad,4432 RON,15.6,LCD,AMD,Intel Core i5-7200U,16 GB,2TB,Nu,Da,2.0 Kg
+MSI VivoBook,4167 RON,13.3,OLED,Intel,AMD Ryzen 5 3500U,16 GB,1TB,Nu,Nu,1.5 Kg
